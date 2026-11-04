@@ -1,0 +1,19 @@
+PROTOTIPO DE REGISTRO · TUBERCULOSIS BOVINA · SOLO FORMACIÓN
+
+Fuente oficial: Direção-Geral de Alimentação e Veterinária (DGAV), Programa de
+Erradicação da Tuberculose Bovina para 2025-2027, Portugal. El PDF oficial está disponible en el enlace siguiente.
+https://www.dgav.pt/wp-content/uploads/2026/01/PT_2025_2027_Portugal_PE-_Tuberculose-bovina_Reg2020_2002.pdf
+Ficha del programa en la página oficial:
+https://www.dgav.pt/animais/conteudo/animais-de-producao/bovinos/saude-animal-em-bovinos/planos-de-controlo-oficial-e-relatorios/
+
+Puntos útiles para explorar al diseñar una aplicación: página 1, ámbito del
+programa; página 15, definición de caso y notificación; página 20, notificación
+en el contexto descrito y +SIPACE; página 24, investigación epidemiológica.
+Las páginas pueden tratar situaciones diferentes: leer el supuesto completo.
+
+El prototipo es un registro auxiliar inventado. Los campos que plantea son una
+PROPUESTA DIDÁCTICA, no un formulario oficial ni una lista legal obligatoria.
+No calcula diagnósticos, clasificaciones, plazos ni obligaciones; tampoco
+notifica, se conecta a +SIPACE ni sustituye trámites y decisiones oficiales.
+Para uso real: validar alcance, versión, permisos, campos, integraciones y
+procedimiento con DGAV y el veterinario responsable antes de construirlo.

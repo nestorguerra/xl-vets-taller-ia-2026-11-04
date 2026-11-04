@@ -1,0 +1,5 @@
+Revisa el prototipo local de demostración de tuberculosis bovina y proponle tres mejoras para un equipo veterinario: claridad de los campos, manejo de datos ausentes y trazabilidad de los cambios. Usa solo los registros ficticios incluidos.
+
+Antes de cambiar código, explica brevemente las mejoras. No añadas diagnósticos automáticos, plazos legales, notificaciones, acceso a sistemas externos ni datos personales. No afirmes que los campos son obligatorios por ley.
+
+Aplica una mejora sencilla, comprueba que el filtro y la descarga siguen funcionando y describe los cambios. Si alguna capacidad no se puede verificar, dilo.

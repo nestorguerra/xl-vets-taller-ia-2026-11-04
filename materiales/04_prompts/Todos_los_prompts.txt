@@ -1,0 +1,110 @@
+01 · AGENTE VISITAS
+
+Actúa como asistente de operaciones para un equipo veterinario. Este es un ejercicio con datos ficticios.
+
+Primero comprueba si tengo un conector de almacenamiento disponible y autorizado. Si lo tengo, accede solo a la carpeta XLVETS_DEMO que yo he seleccionado y enumera los archivos que realmente ves. No busques fuera de ella. Si no tienes acceso, indícalo y utiliza los archivos que adjunte localmente; no simules una conexión.
+
+Lee el correo de práctica y la hoja Visitas del Excel. Prepara: 1) un borrador de informe de V-001 para revisión; 2) una tabla de las cinco visitas con información respaldada por la fuente; 3) una lista de discrepancias, datos ausentes y preguntas para el profesional; y 4) instrucciones reutilizables para un proyecto de trabajo llamado «Visitas XL Vets - DEMO».
+
+Compara en particular el número de muestras del correo y del Excel. Conserva ambos datos con su procedencia; no decidas cuál es correcto. No inventes diagnósticos, medicamentos, precios o fechas. No envíes mensajes ni escribas en sistemas externos.
+
+Si puedes crear un proyecto en esta herramienta y yo he habilitado esa función, créalo con las instrucciones y los documentos ficticios. Indica qué has creado y cómo comprobarlo. Si no puedes, entrega las instrucciones listas para copiar y di que el proyecto está pendiente. Guarda los resultados en la carpeta de salida que te indique.
+
+02 · AGENTE SKILL
+
+Actúa como asistente de control documental para un equipo veterinario. Solo utilizamos datos de demostración.
+
+Con el conector que yo haya autorizado, lee únicamente la carpeta XLVETS_DEMO y el libro Visitas_y_trazabilidad_FICTICIAS.xlsx. Si el conector no está disponible, pide o utiliza el archivo adjunto y explica que la lectura fue local.
+
+Compara las hojas Registros y Facturas por receta y factura. Entrega una tabla por registro con producto, referencias, lote del registro, lote de la factura, observación y fuente exacta. Añade las facturas que no tienen registro relacionado. Señala diferencias y ausencias sin completar valores ni decidir qué fuente es correcta. No afirmes que se administró un producto o que existe una infracción.
+
+Crea en una carpeta local una propuesta de skill reutilizable llamada revision-trazabilidad-demo con un archivo SKILL.md: objetivo, cuándo usarla, entradas, pasos, salida, límites y pruebas. Si la plataforma permite probar una skill sin instalarla, pruébala con estos datos; en caso contrario revisa sus instrucciones con los casos de prueba. Comprueba R-001, R-002, R-003, R-004 y FAC-105.
+
+No instales ni actives la skill, no modifiques sistemas y no envíes comunicaciones. Explica qué has creado, cómo se comprueba y qué quedaría pendiente.
+
+03 · RESEARCH SECADO
+
+Investiga la evidencia sobre terapia selectiva de secado en vacas lecheras, comparada con la administración sistemática a todos los animales, para orientar una revisión profesional en una explotación portuguesa.
+
+Prioriza revisiones sistemáticas, ensayos aleatorizados y guías veterinarias. Indica estrategia de búsqueda, fechas, criterios de selección y fecha de consulta. Para cada estudio identifica población, tamaño de muestra, contexto, intervención, comparador, desenlaces de salud de ubre, uso de antimicrobianos y tiempo de seguimiento. Informa de medidas absolutas y relativas e intervalos cuando las fuentes los presenten; no inventes cifras.
+
+Resume coincidencias, resultados contrarios, limitaciones, conflictos de interés y grado de aplicabilidad a ganaderías portuguesas. Distingue ensayos de observacionales y separa los requisitos regulatorios portugueses de las recomendaciones clínicas internacionales. Usa fuentes oficiales para verificar lo normativo y cita enlaces directos que realmente sostengan cada afirmación.
+
+Termina con diez preguntas para que el veterinario explore con la explotación. No recomiendes un producto, dosis o protocolo para un animal concreto; señala lo que requiere validación veterinaria y legal.
+
+04 · RESEARCH SCC
+
+Investiga la utilidad y las limitaciones del recuento de células somáticas y de las pruebas de campo para detectar y seguir la mastitis en vacas lecheras.
+
+Plantea la pregunta con población, prueba índice, referencia y desenlaces. Busca revisiones sistemáticas y estudios de precisión diagnóstica, y distingue mastitis clínica, subclínica, cuartos individuales y mediciones del tanque. Explica qué identifican las pruebas y qué no pueden establecer por sí solas.
+
+Para cada fuente relevante, informa del tipo de estudio, población, número de animales o cuartos, prueba de referencia, sensibilidad, especificidad y condiciones de aplicación si están disponibles. Indica cuándo esas métricas no se pueden comparar. Contrasta los enlaces y presenta autores, año, DOI o PMID, citas y posibles limitaciones.
+
+Entrega una tabla comparativa, un esquema para interpretar datos longitudinales sin atribuir causas automáticamente y una lista de datos que una granja tendría que registrar. Evita convertir un umbral en diagnóstico o pauta de tratamiento. Separa resultados de investigación, inferencias y preguntas para validar con el veterinario.
+
+05 · NOTEBOOK FUENTES
+
+Usa únicamente los cinco artículos reales cargados en este cuaderno sobre mastitis y salud de ubre.
+
+1. Elabora una tabla con cada artículo, año, tipo de estudio, población y especie, pregunta principal y limitaciones.
+2. Compara lo que aportan sobre identificación, seguimiento o control de mastitis. Distingue hallazgos de hipótesis y no extrapoles automáticamente entre especies o países.
+3. Para cada afirmación, cita la fuente y el pasaje pertinente. Si una fuente no responde, dilo. Comprueba al menos dos citas abriendo el PDF original.
+4. Propón cinco preguntas relevantes para veterinarios de vacuno lechero en Portugal y señala qué requeriría fuentes o validación adicional.
+
+No confundas los datos inventados del ejercicio con los artículos científicos y no proporciones una pauta terapéutica.
+
+06 · NOTEBOOK ENSAYO
+
+Usa únicamente Ensayo_Mastitis_FICTICIO.csv y Ficha_ensayo_simulado.txt. Los datos son inventados y no proceden de las publicaciones.
+
+Explica el diseño simulado, las variables y sus unidades. Cuenta animales por grupo y granja. Para cada grupo y cada momento, muestra el número de valores disponibles y el número ausente. Resume descriptivamente los recuentos iniciales, del día 30 y del día 90, sin sustituir vacíos por cero. Si calculas cambios individuales, usa solo pares con ambas mediciones y muestra su denominador.
+
+Cuenta episodios registrados en cada grupo y separa los datos ausentes. Explica por qué hay que considerar la granja y por qué la comparación no demuestra eficacia. Identifica qué operaciones numéricas convendría repetir en Excel para verificarlas.
+
+Cita la fuente y señala la fila o el dato de apoyo cuando sea posible. Si no puedes calcular con seguridad, explica el límite y da los pasos para comprobarlo. No emitas recomendaciones clínicas.
+
+07 · CODIGO APP
+
+Actúa como desarrollador y crea una aplicación local de demostración para organizar datos ficticios de seguimiento de tuberculosis bovina.
+
+Lee primero DGAV_Programa_Tuberculosis_Bovina_2025_2027.pdf y Referencia_DGAV_y_alcance.txt. Usa el PDF para comprender el contexto: ámbito p. 1; definición de caso y notificación p. 15; +SIPACE en el contexto de p. 20; investigación epidemiológica p. 24. No supongas que esas páginas definen los mismos supuestos ni inventes campos obligatorios. Identifica qué procede de la fuente y qué es una propuesta de diseño pendiente de validación.
+
+Con Registros_TB_FICTICIOS.csv crea una página HTML local que funcione sin servidor ni librerías externas. Muestra los registros, permite filtrar por estado administrativo, añadir una fila ficticia y descargar el listado en CSV. Usa etiquetas visibles «DATOS FICTICIOS» y «PROTOTIPO NO OFICIAL».
+
+No calcules diagnósticos, clasificaciones sanitarias, plazos ni obligaciones. No notifiques, no envíes datos y no te conectes a +SIPACE u otros sistemas. No incluyas datos reales. Indica que la tabla es un registro auxiliar propuesto y que el veterinario y DGAV deben validar cualquier uso real.
+
+Abre el resultado, prueba el filtro, una fila nueva y la descarga. Enumera qué funciona realmente y qué no se ha probado. Guarda el HTML en la carpeta de demostración sin publicar nada.
+
+08 · CODIGO REVISION
+
+Revisa el prototipo local de demostración de tuberculosis bovina y proponle tres mejoras para un equipo veterinario: claridad de los campos, manejo de datos ausentes y trazabilidad de los cambios. Usa solo los registros ficticios incluidos.
+
+Antes de cambiar código, explica brevemente las mejoras. No añadas diagnósticos automáticos, plazos legales, notificaciones, acceso a sistemas externos ni datos personales. No afirmes que los campos son obligatorios por ley.
+
+Aplica una mejora sencilla, comprueba que el filtro y la descarga siguen funcionando y describe los cambios. Si alguna capacidad no se puede verificar, dilo.
+
+09 · IMAGEN PROPIETARIOS
+
+Crea una infografía vertical para ganaderos de vacuno lechero sobre cómo observar y comunicar cambios en la salud de la ubre.
+
+Composición editorial clara con tres zonas visuales: observación durante el ordeño, anotación de cambios y comunicación con el veterinario. Personas y animales anatómicamente creíbles; entorno de explotación portuguesa, limpio y realista. Paleta sobria con rojo oscuro, marfil y gris. Iconos sencillos y espacio en blanco para colocar después los textos revisados.
+
+No escribas texto, cifras, diagnósticos, fármacos, dosis ni logos. No representes intervenciones clínicas. La imagen es ilustrativa y no debe hacerse pasar por una foto real.
+
+10 · IMAGEN RUTA
+
+Diseña una ilustración horizontal para explicar el recorrido de una visita veterinaria a una explotación bovina: visita → nota de campo → revisión profesional → informe para el ganadero.
+
+Usa cuatro viñetas conectadas visualmente, estilo infografía editorial elegante, líneas limpias, fondo claro y suficiente espacio para añadir rótulos después. El veterinario y la persona ganadera deben aparecer en un entorno creíble. Sin datos de clientes, marcas, logotipos, texto ni números. No sugieras que se envían informes sin revisión.
+
+11 · IMAGEN MASTITIS
+
+Crea una lámina visual sin texto sobre tres situaciones que un ganadero puede registrar para comentar con su veterinario: observación de la vaca, aspecto general de la ubre y registro de cambios durante el ordeño.
+
+Enfoque educativo, no diagnóstico. Evita imágenes gráficas, procedimientos médicos y señales inventadas de enfermedad; utiliza dibujos neutros, fáciles de interpretar, sobre fondo marfil. No pongas medicamentos, dosis, porcentajes, logotipos ni recomendaciones. Deja un área clara para añadir texto validado en la presentación.
+
+12 · IMAGEN DATOS
+
+Crea una imagen conceptual horizontal para una presentación veterinaria: datos ficticios de una explotación se transforman en una tabla clara y después en un informe revisado por una persona.
+
+Estilo editorial profesional, iconos de granja, hoja de cálculo y revisión humana, con colores rojo oscuro, gris y marfil. La imagen debe sugerir colaboración y trazabilidad, no automatización clínica autónoma. No incluyas textos legibles, cifras, identidades ni marcas. Añadir los rótulos después, tras revisión.

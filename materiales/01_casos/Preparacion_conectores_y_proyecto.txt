@@ -1,0 +1,18 @@
+PREPARACIÓN DE LOS DOS CASOS · DATOS FICTICIOS
+
+Archivos: Visitas_y_trazabilidad_FICTICIAS.xlsx y Correo_visita_FICTICIO.txt.
+Opcional para demostrar un conector: cada participante puede crear en su
+propia cuenta una carpeta denominada XLVETS_DEMO y subir SOLO estos dos
+archivos ficticios. Después selecciona esa carpeta en el conector que tenga
+disponible y concede los permisos que considere adecuados. La conexión, el
+nombre de los menús y la creación de proyectos dependen de la cuenta.
+
+Si no existe un conector o no se autorizan permisos, adjunte los archivos
+localmente. La práctica seguirá siendo válida, pero no se habrá demostrado una
+conexión. No busque en correos ni carpetas ajenos al ejercicio. Si se trabaja
+en grupo, que un participante comparta pantalla y otros supervisen las fuentes.
+
+Caso 1: comparar la hoja Visitas con el correo, preparar un informe y una lista
+de pendientes, y crear o dejar redactadas instrucciones de un proyecto.
+Caso 2: comparar las hojas Registros y Facturas y generar una skill de prueba
+en una carpeta local; validar con casos conocidos. No instalarla sin decidirlo.

@@ -1,0 +1,22 @@
+ENSAYO SIMULADO PARA APRENDER · NO ES UN ESTUDIO REAL
+
+Tema: seguimiento de salud de ubre y recuento de células somáticas en vacuno.
+Pregunta ficticia: ¿cómo cambian las medidas registradas entre el inicio,
+el día 30 y el día 90 con dos frecuencias de revisión de salud de ubre?
+Población inventada: 60 animales, 5 explotaciones ficticias, 12 animales por
+explotación. Se simuló una asignación equilibrada: 30 en A y 30 en B.
+Grupo A: revisión ficticia semanal del registro por un veterinario, además de
+las mediciones comunes. Grupo B: revisión ficticia del registro solo en los
+días de medición: inicio, día 30 y día 90. No se describe ningún medicamento,
+dosis ni protocolo terapéutico. Los valores se generan artificialmente.
+Variables: recuento de células somáticas (SCC), en células/ml; número de partos
+previos; episodio durante 90 días (1=sí, 0=no y vacío=desconocido).
+Ausencias deliberadas: V012, V025 y V053 sin SCC al día 90; V025 sin dato de
+episodio. Un campo vacío no es cero. Las granjas agrupan animales y pueden
+introducir dependencia entre observaciones; no se simula cegamiento. El análisis
+es descriptivo y los grupos son parte de una historia inventada.
+No utilizar los resultados para diagnóstico, prescripción ni decisiones reales.
+
+Ensayo_Mastitis_FICTICIO.xlsx es para Excel. Ensayo_Mastitis_FICTICIO.csv
+contiene la tabla del mismo ensayo para cargar en NotebookLM. Las fuentes
+científicas son documentos reales y NO son el origen de estos datos simulados.

@@ -1,0 +1,7 @@
+Usa únicamente Ensayo_Mastitis_FICTICIO.csv y Ficha_ensayo_simulado.txt. Los datos son inventados y no proceden de las publicaciones.
+
+Explica el diseño simulado, las variables y sus unidades. Cuenta animales por grupo y granja. Para cada grupo y cada momento, muestra el número de valores disponibles y el número ausente. Resume descriptivamente los recuentos iniciales, del día 30 y del día 90, sin sustituir vacíos por cero. Si calculas cambios individuales, usa solo pares con ambas mediciones y muestra su denominador.
+
+Cuenta episodios registrados en cada grupo y separa los datos ausentes. Explica por qué hay que considerar la granja y por qué la comparación no demuestra eficacia. Identifica qué operaciones numéricas convendría repetir en Excel para verificarlas.
+
+Cita la fuente y señala la fila o el dato de apoyo cuando sea posible. Si no puedes calcular con seguridad, explica el límite y da los pasos para comprobarlo. No emitas recomendaciones clínicas.

@@ -1,0 +1,9 @@
+Actúa como asistente de control documental para un equipo veterinario. Solo utilizamos datos de demostración.
+
+Con el conector que yo haya autorizado, lee únicamente la carpeta XLVETS_DEMO y el libro Visitas_y_trazabilidad_FICTICIAS.xlsx. Si el conector no está disponible, pide o utiliza el archivo adjunto y explica que la lectura fue local.
+
+Compara las hojas Registros y Facturas por receta y factura. Entrega una tabla por registro con producto, referencias, lote del registro, lote de la factura, observación y fuente exacta. Añade las facturas que no tienen registro relacionado. Señala diferencias y ausencias sin completar valores ni decidir qué fuente es correcta. No afirmes que se administró un producto o que existe una infracción.
+
+Crea en una carpeta local una propuesta de skill reutilizable llamada revision-trazabilidad-demo con un archivo SKILL.md: objetivo, cuándo usarla, entradas, pasos, salida, límites y pruebas. Si la plataforma permite probar una skill sin instalarla, pruébala con estos datos; en caso contrario revisa sus instrucciones con los casos de prueba. Comprueba R-001, R-002, R-003, R-004 y FAC-105.
+
+No instales ni actives la skill, no modifiques sistemas y no envíes comunicaciones. Explica qué has creado, cómo se comprueba y qué quedaría pendiente.

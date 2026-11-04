@@ -1,0 +1,7 @@
+Investiga la utilidad y las limitaciones del recuento de células somáticas y de las pruebas de campo para detectar y seguir la mastitis en vacas lecheras.
+
+Plantea la pregunta con población, prueba índice, referencia y desenlaces. Busca revisiones sistemáticas y estudios de precisión diagnóstica, y distingue mastitis clínica, subclínica, cuartos individuales y mediciones del tanque. Explica qué identifican las pruebas y qué no pueden establecer por sí solas.
+
+Para cada fuente relevante, informa del tipo de estudio, población, número de animales o cuartos, prueba de referencia, sensibilidad, especificidad y condiciones de aplicación si están disponibles. Indica cuándo esas métricas no se pueden comparar. Contrasta los enlaces y presenta autores, año, DOI o PMID, citas y posibles limitaciones.
+
+Entrega una tabla comparativa, un esquema para interpretar datos longitudinales sin atribuir causas automáticamente y una lista de datos que una granja tendría que registrar. Evita convertir un umbral en diagnóstico o pauta de tratamiento. Separa resultados de investigación, inferencias y preguntas para validar con el veterinario.

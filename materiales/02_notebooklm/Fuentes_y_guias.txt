@@ -1,0 +1,42 @@
+MASTITIS BOVINA · FUENTES REALES PARA EL EJERCICIO DE NOTEBOOKLM
+Selección contrastada el 4 de noviembre de 2026. Artículos en inglés; las dos
+revisiones abarcan rumiantes y no todos sus resultados se aplican al vacuno.
+Los cinco PDF incluidos son publicaciones abiertas CC BY 4.0, sin modificar.
+
+1. Rossi RS et al. Efficacy of cefquinome and a combination of cloxacillin and
+ampicillin for treatment of dairy cows with Streptococcus agalactiae subclinical
+mastitis. PLOS ONE, 2019. DOI 10.1371/journal.pone.0216091. PMID 31022270.
+https://pubmed.ncbi.nlm.nih.gov/31022270/
+
+2. Barca J et al. Effect of pegbovigrastim on clinical mastitis and uterine
+disease during a full lactation in grazing dairy cows. PLOS ONE, 2021.
+DOI 10.1371/journal.pone.0252418. PMID 34043727.
+https://pubmed.ncbi.nlm.nih.gov/34043727/
+
+3. Dal Prà A et al. Relationship between total and differential quarter
+somatic cell counts at dry-off and early lactation. PLOS ONE, 2022.
+DOI 10.1371/journal.pone.0275755. PMID 36251634.
+https://pubmed.ncbi.nlm.nih.gov/36251634/
+
+4. Giagu A et al. Milk proteins as mastitis markers in dairy ruminants: a
+systematic review. Veterinary Research Communications, 2022.
+DOI 10.1007/s11259-022-09901-y. PMID 35195874.
+https://pubmed.ncbi.nlm.nih.gov/35195874/
+
+5. Ruiz-Romero RA, Vargas-Bello-Pérez E. Non-aureus staphylococci and
+mammaliicocci as a cause of mastitis in domestic ruminants: a systematic review.
+Veterinary Research Communications, 2023. DOI 10.1007/s11259-023-10090-5.
+PMID 36964436. https://pubmed.ncbi.nlm.nih.gov/36964436/
+
+Licencia de los cinco artículos: https://creativecommons.org/licenses/by/4.0/
+
+GUÍAS CLÍNICAS ADICIONALES · ENLACES ORIGINALES
+- DairyNZ, Mastitis Technotes, agosto de 2026. Guía técnica para Nueva Zelanda;
+  no representa una norma portuguesa ni se incluye una copia en este paquete.
+  https://dairynz-web.aueast01.umbraco.io/media/iwhha2hn/mastitis-technotes.pdf
+- University of Melbourne, Australian Veterinary Prescribing Guidelines:
+  Mastitis. Aplicación australiana, no sustituye normativa o criterio portugués.
+  https://science.unimelb.edu.au/avpg/bovine-guidelines/mastitis
+
+No mezclar la evidencia publicada con el ensayo inventado. Revisar las citas y
+la aplicabilidad al contexto portugués antes de sacar conclusiones prácticas.

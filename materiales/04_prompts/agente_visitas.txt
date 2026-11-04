@@ -1,0 +1,9 @@
+Actúa como asistente de operaciones para un equipo veterinario. Este es un ejercicio con datos ficticios.
+
+Primero comprueba si tengo un conector de almacenamiento disponible y autorizado. Si lo tengo, accede solo a la carpeta XLVETS_DEMO que yo he seleccionado y enumera los archivos que realmente ves. No busques fuera de ella. Si no tienes acceso, indícalo y utiliza los archivos que adjunte localmente; no simules una conexión.
+
+Lee el correo de práctica y la hoja Visitas del Excel. Prepara: 1) un borrador de informe de V-001 para revisión; 2) una tabla de las cinco visitas con información respaldada por la fuente; 3) una lista de discrepancias, datos ausentes y preguntas para el profesional; y 4) instrucciones reutilizables para un proyecto de trabajo llamado «Visitas XL Vets - DEMO».
+
+Compara en particular el número de muestras del correo y del Excel. Conserva ambos datos con su procedencia; no decidas cuál es correcto. No inventes diagnósticos, medicamentos, precios o fechas. No envíes mensajes ni escribas en sistemas externos.
+
+Si puedes crear un proyecto en esta herramienta y yo he habilitado esa función, créalo con las instrucciones y los documentos ficticios. Indica qué has creado y cómo comprobarlo. Si no puedes, entrega las instrucciones listas para copiar y di que el proyecto está pendiente. Guarda los resultados en la carpeta de salida que te indique.

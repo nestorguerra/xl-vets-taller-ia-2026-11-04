@@ -1,0 +1,14 @@
+ESPECIFICACIÓN PARA UNA SKILL DE PRÁCTICA · FICTICIA
+
+Nombre de ejemplo: revision-trazabilidad-demo.
+Finalidad: comparar registros de productos con facturas y señalar coincidencias,
+diferencias, información ausente y facturas sin registro vinculado.
+Entradas: las hojas Registros y Facturas del libro ficticio.
+Salidas: tabla con referencias y observaciones, más preguntas para la persona
+responsable. El agente cita la hoja y la fila que respaldan cada observación.
+Límites: no decide qué documento es correcto, no completa lotes, no interpreta
+que haya administración, infracción ni cumplimiento, y no modifica registros.
+Pruebas mínimas: R-001 coincide; R-002 discrepa; R-003 carece de lote en el
+registro; R-004 carece de receta, factura y lote; FAC-105 no está relacionada.
+La skill se crea solo como archivo local de práctica. Su instalación o activación
+depende de la herramienta y de la decisión expresa de su propietario.

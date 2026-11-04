@@ -1,0 +1,9 @@
+Actúa como desarrollador y crea una aplicación local de demostración para organizar datos ficticios de seguimiento de tuberculosis bovina.
+
+Lee primero DGAV_Programa_Tuberculosis_Bovina_2025_2027.pdf y Referencia_DGAV_y_alcance.txt. Usa el PDF para comprender el contexto: ámbito p. 1; definición de caso y notificación p. 15; +SIPACE en el contexto de p. 20; investigación epidemiológica p. 24. No supongas que esas páginas definen los mismos supuestos ni inventes campos obligatorios. Identifica qué procede de la fuente y qué es una propuesta de diseño pendiente de validación.
+
+Con Registros_TB_FICTICIOS.csv crea una página HTML local que funcione sin servidor ni librerías externas. Muestra los registros, permite filtrar por estado administrativo, añadir una fila ficticia y descargar el listado en CSV. Usa etiquetas visibles «DATOS FICTICIOS» y «PROTOTIPO NO OFICIAL».
+
+No calcules diagnósticos, clasificaciones sanitarias, plazos ni obligaciones. No notifiques, no envíes datos y no te conectes a +SIPACE u otros sistemas. No incluyas datos reales. Indica que la tabla es un registro auxiliar propuesto y que el veterinario y DGAV deben validar cualquier uso real.
+
+Abre el resultado, prueba el filtro, una fila nueva y la descarga. Enumera qué funciona realmente y qué no se ha probado. Guarda el HTML en la carpeta de demostración sin publicar nada.

@@ -1,0 +1,7 @@
+visita,explotacion,animal,fecha,estado,nota
+TB-001,DEMO-01,VACA-001,2026-09-12,Pendiente,Fecha de revisión por acordar
+TB-002,DEMO-01,VACA-002,2026-09-12,En revisión,Documento pendiente de revisión
+TB-003,DEMO-02,VACA-003,2026-09-19,Registrado,Ejemplo ficticio completo
+TB-004,DEMO-03,VACA-004,2026-10-05,Pendiente,Dato adicional sin confirmar
+TB-005,DEMO-03,VACA-005,2026-10-05,En revisión,Pendiente de comprobación humana
+TB-006,DEMO-04,VACA-006,2026-10-18,Registrado,Seguimiento registrado en ejercicio
